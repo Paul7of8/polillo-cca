@@ -9,7 +9,7 @@ Pushing to `main` publishes the site.
 - `index.html`: Home, most recent galleries for the current school year
 - `index_cca_bb.html`: Basketball
 - `index_cca_tf.html`: Track & Field
-- `index_cca_vb.html`: Volleyball (has no current-season header, only Prior Seasons)
+- `index_cca_vb.html`: Volleyball
 - `index_cca.html`: Events
 - `about.html`: About
 
@@ -31,8 +31,8 @@ Add the entry to its sport or Events page and to Home.
 ## New school year
 1. Get the archive links for the year that just ended, plus the link for the
    new year's All Photos gallery.
-2. On Basketball, Track & Field and Events, change the current header to the
-   new year and remove that year's individual entries.
+2. On Basketball, Track & Field, Volleyball and Events, change the current
+   header to the new year and remove that year's individual entries.
 3. Add a `YYYY-YYYY Season Archive` entry (`Event Archive` on Events) at the top
    of Prior Seasons or Prior Years.
 4. Add "Coming Soon" under the new header where there are no galleries yet.
